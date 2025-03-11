@@ -7,7 +7,7 @@
 //Teste Gabryella
 
 int main() {
-  //Carta 01
+  //Carta 1
   
   char estado[20] = "A";
   char código[40] = "A01";
